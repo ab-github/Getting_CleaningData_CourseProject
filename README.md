@@ -4,6 +4,18 @@ author: Abhijit Bhinge
 date: "Sunday, March 22, 2015"
 output: html_document
 ---
+## Data Analysis
+
+1. Combine the test and train subjects, activities and features in 3 different data sets respectively. One data set for each.
+For ex:- Both test and train subjects are rbinded into one. test and train activities are rbinded into 2nd one and so on and so forth.
+
+2. Assign the desired column names and combine all the data sets into one big data set.
+
+3. Get only those features/column names which has the word mean or std in it.
+
+4. Assign the descriptive activity names to this final data set.
+
+5. Lastly, create a tidy data set with the average of each variable for each activity and each subject.
 
 ## The dataset includes the following files:
 
